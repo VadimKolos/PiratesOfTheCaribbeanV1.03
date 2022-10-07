@@ -1,0 +1,34 @@
+
+sea_Cancel {Отмена}
+sea_Moor {Причалить}
+sea_SailTo {Доплыть}
+sea_Board {Абордаж}
+sea_LandTroops {Десант}
+sea_Map {Карта}
+sea_Attack {Атака}
+sea_Defend {Защита}
+sea_SailAway {Уплыть}
+sea_HeaveToDrift {Спустить Паруса}
+sea_Reload {Товары}
+sea_Charge {Перезарядка}
+sea_Speed {Паруса}
+sea_CCommand {Приказать}
+sea_Ability {Способность}
+sea_ImmediateDeath {Уничтожить!}
+
+land_FastReload {Переход}
+land_ItemsUse {Использовать}
+land_DialogStart {Разговор}
+land_ItemsChange {Обмен}
+land_TakeItem {Взять}
+land_PlaceItem {Отдать}
+land_OutDoor {Открыть}
+land_UseBox {Осмотреть}
+land_ActivateRush {Ярость}
+land_ActivateShotgun {Помповое Ружье}
+
+go_store {Магазин}
+go_shipyard {Верфь}
+go_tavern {Таверна}
+go_residence {Губернатор}
+go_port {Порт}

@@ -1,0 +1,221 @@
+Boarding deck {Верхняя палуба} 
+Fort inside {Форт}
+Conceicao Port {Порт Консейсао}
+Conceicao. {Консейсао.}
+Sea. {Море.}
+Conceicao town {Город Консейсао}
+Jungle. {Джунгли.}
+Port. {Порт.}
+Tavern. {Таверна.}
+Store. {Магазин.}
+Shipyard. {Верфь.}
+Residence. {Резиденция губернатора.}
+Church. {Церковь.}
+Loanshark's Office. {Дом ростовщика.}
+House. {Дом.}
+House of Amerigo Vieira {Дом Америго Виейра}
+Conceicao townhall {Дом губернатор Консейсао}
+Exit from Conceicao {Выход из Консейсао}
+Conceicao store {Магазин Консейсао}
+Conceicao shipyard {Верфь Консейсао}
+Conceicao Tavern {Таверна Консейсао}
+Room. {Комната.}
+Room in Conceicao tavern {Комната в таверне Консейсао}
+Conceicao jungle {Джунгли Консейсао}
+Sunny Haven. {Солнечная гавань}
+Conceicao shore {Бухта Консейсао}
+Hidden Cave. {Спрятанная Пещера.}
+Exit from Smugglers Lair {Выход из Логово Контрабандистов}
+Leviathan Rock. {Скала Левиафан.}
+Smugglers Lair. {Логово Контрабандистов.}
+Chief's House. {Дом главаря.}
+Rheims' House. {Дом Реймса.}
+Rheims' House Window. {Окно в доме Реймса.}
+Smugglers Tavern {Таверна контрабандистов}
+House of Leader of smugglers {Дом Главаря контрабандистов}
+Rheims house in smugglers lair {Дом Реймса в Логове Контрабандистов}
+Conceicao's church {Церковь Консейсао}
+Douwesen port {Порт Дувезена}
+Douwesen. {Дувезен.}
+Douwesen town {Город Дувезен}
+Douwesen townhall {Дом губернатора Дувезена}
+Exit from Douwesen {Выход из Дувезена}
+Douwesen shipyard {Верфь Дувезена}
+Douwesen store {Магазин Дувезена}
+Douwesen tavern {Таверна Дувезена}
+Room in Douwesen tavern {Комната в таверне Дувезена}
+Pirate Fort {Пиратский форт}
+House of leader of Douwesen pirates {Дом лидера пиратов на Дувезене}
+Douwesen jungles {Джунгли Дувезена}
+Palm Beach. {Бухта пальм.}
+Douwesen shore {Гавань Дувезена}
+Crab Cliffs. {Утес крабов.}
+House in Jungle {Дом в джунглях}
+Rheims house on Douwesen {Дом Реймса на острове Дувезен}
+Exit. {Выход.}
+Room in Pirate tavern {Комната в пиратской таверне}
+The cavern {Пещера}
+Douwesen Cavern {пещера на острове Дувезен}
+Douwesen Outskirts. {предместья Дувезена.}
+????? {?????}
+????? {?????}
+????? {?????}
+Falaise de Fleur Port {Порт Фале де флер}
+Falaise De Fleur. Slums. {трущобы Фале де флер.}
+Beach. {Пляж.}
+Head port house. {Дом начальника порта.}
+Falaise de Fleur beach {пляж Фале де флер}
+Falaise De Fleur {Фале де флер}
+Falaise De Fleur. Center. {центр Фале де флер.}
+Falaise De Fleur's church {церковь Фале де флер}
+Falaise de Fleur jungle {Джунгли Фале де флер}
+Octopus Bay. {Залив Осьминога.}
+Falaise de Fleur shore {Залив Осьминога}
+Falaise De Fleur townhall {Дом губернатора Фале де флер}
+Falaise De Fleur Tavern {Таверна Фале де флер}
+Room in Falaise de Fleur tavern {Комната в таверне Фале де флер}
+Falaise De Fleur shipyard {Верфь Фале де флер}
+Falaise de Fleur store {Магазин Фале де флер}
+House in Falaise De Fleur {Дом в Фале де флер}
+Falaise De Fleur. Port. {Порт Фале де флер.}
+Isla Muelle port {Порт Исла Муэлье}
+Isla Muelle. Trade Square. {Торговая площадь Исла Муэлье.}
+Isla Muelle {Исла Муэлье}
+Isla Muelle. Center. {центр Исла Муэлье.}
+House of Mateus Santos {Дом Исла Муэлье}
+Isla Muelle shipyard {Верфь Исла Муэлье}
+Isla Muelle store {Магазин Исла Муэлье}
+Isla Muelle tavern {Таверна Исла Муэлье}
+Room in Isla Muelle tavern {Комната в таверне Исла Муэлье}
+Isla Muelle townhall {Дом губернатора Исла Муэлье}
+House in Isla Muelle {Дом в Исла Муэлье}
+Exit from Isla Muelle {Выход из Исла Муэлье}
+Sea Passage. {Пролив.}
+Isla Muelle passage {Пролив Исла Муэлье}
+Oyster Beach. {Залив Устрицы.}
+Isla Muelle shore {Бухта Исла Муэлье}
+Entrace to Isla Muelle cave {Вход в пещеру Исла Муэлье}
+Cave. {Пещера.}
+Shore. {Берег.}
+ANIMISTS Lair {Логово язычников}
+Isla Muelle church {церковь Исла Муэлье}
+Khael Roa Shore {бухта Каэль Роа}
+Maze {Лабиринт}
+Alcove {Альков}
+Oxbay port {Порт Оксбэя}
+Oxbay. {Оксбэй.}
+Underworld. {Подземелье.}
+Exit from Oxbay {Выход из Оксбэя}
+Oxbay shipyard {Верфь Оксбэя}
+Oxbay store {Магазин Оксбэя}
+Oxbay tavern {Таверна Оксбэя}
+Room in Oxbay tavern {Комната в таверне Оксбэя}
+Oxbay jungles {Джунгли Оксбэя}
+Far Beach. {Бухта Дальняя.}
+Oxbay shore {берег Оксбэя}
+Oxbay cave entrance {вход в пещеру на Оксбэе}
+To Greenford. {К Гринфорду.}
+Greenford port {порт Гринфорда}
+Greenford. {Гринфорд.}
+Canyon. Mines. {Каньон. Шахты.}
+Prison. {Тюрьма.}
+House of Yedam Kinne. {Дом Едама Кини.}
+House of Geffrey Bampfylde {Дом Джефри Бампфилда}
+Exit from Greenford {Выход из Гринфорда}
+Greenford shipyard {Верфь Гринфорда}
+Greenford store {Магазин Гринфорда}
+Greenford tavern {Таверна Гринфорда}
+Room in Greenford tavern {Комната в таверне Гринфорда}
+Oxbay canyon {Каньон на Оксбэе}
+Lighthouse. {Маяк.}
+Mines. {Шахты.}
+Mines Office. {Дом управляющего шахтами.}
+Oxbay lighthouse {Маяк на Оксбэе}
+Canyon. Mines. {Каньон. Шахты.}
+Lighthouse Inside. {Маяк.}
+Oxbay lighthouse Inside {Внутри маяка на Оксбэе}
+Oxbay_lighthouse {Маяк на Оксбэе}
+Oxbay mine {Шахты на Оксбэе}
+Greenford prison {Тюрьма Гринфорда}
+Yedam Kinne's house {Дом Едама Кини}
+Greenford's church {Церковь Гринфорда}
+Quebradas Costillas port {порт Кебрадас Костиллас}
+Quebradas Costillas {Кебрадас Костиллас}
+Pirate Chief's House. {Дом Лидера Пиратов.}
+Exit from Quebradas Costillas {Выход из Кебрадас Костиллас}
+House of leader Quebradas Costillas pirates {Дом лидера пиратов Кебрадас Костиллас}
+Quebradas Costillas store {Магазин Кебрадас Костиллас}
+Quebradas Costillas tavern {Таверна Кебрадас Костиллас}
+Room in Quebradas Costillas tavern {Комната в таверне Кебрадас Костиллас}
+Entrance to strange house {Вход в странный дом}
+Inside strange house {Внутри странного дома}
+Redmond tavern {Таверна Редмонда}
+Redmond Townhall. Silehards's Bedroom {Дом губернатора Редмонда. Спальня Сейлхарда.}
+Pirate bark {Пиратская барка}
+Gamboa ship {Корабль Гамбоа}
+Street {Улица}
+2nd floor {2-й этаж}
+Kidnappers' Hideout, 2nd floor {Дом разбойников, 2-й этаж}
+1st floor {1-й этаж}
+Tutorial Deck {Капитанская каюта.}
+"" {""}
+Redmond {Редмонд}
+Redmond. Center. {Центр Редмонда.}
+Redmond port {Порт Редмонда}
+Exit from Redmond {Выход из Редмонда}
+Devil's Throat. {Глотка Дьявола.}
+Exit from Redmond {Выход из Редмонда}
+Redmond shore {Бухта Редмонда}
+Redmond jungles {Джунгли Редмонда}
+Rocky Shore. {Скалистый Берег.}
+Redmond tavern {Таверна Редмонда}
+Room in Redmond tavern {Комната в таверне Редмонда}
+Redmond store {Магазин Редмонда}
+Redmond shipyard {Верфь Редмонда}
+Redmond townhall {Дом губернатора Редмонда}
+Redmond prison {Тюрьма Редмонда}
+Redmond's church {Церковь Редмонда}
+Dungeon {Подземелье}
+Head port house {Дом начальника порта}
+Redmond. Port. {Порт Редмонда.}
+House {Дом}
+Loanshark's Office {Дом ростовщика}
+Oxbay {Оксбэй}
+Greenford {Гринфорд}
+Tavern {Таверна}
+Smugglers Lair {Логово Контрабандистов}
+Room in Smugglers Lair tavern {Комната в Логове Контрабандистов}
+Hidden Cave {Спрятанная пещера}
+Incas Temple {Храм Инков}
+
+
+
+Falaise De Fleur Fort {Форт Феле де флер}
+Redmond Fort {Форт Редмонда}
+Isla Muelle Fort {Форт Исла Муэлье}
+Oxbay Fort {Форт Оксбэя}
+Greenford Fort {Форт Гринфорда}
+Conceicao Fort {Форт Консейсао}
+Douwesen Fort {Форт Дувезена}
+Octopus Bay {Залив Осьминога}
+Devil's Throat {Глотка Дьявола.}
+Rocky Shore {Скалистый Берег.}
+Shore {Побережье}
+Oyster Beach {Залив Устрица.}
+Gray Rock Bay {Залив Серой скалы}
+Lighthouse {Маяк}
+Far Beach {Бухта Дальняя.}
+Sunny Haven {Солнечная гавань.}
+Leviathan Rock {Скала Левиафан.}
+Palm Beach {Бухта пальм.}
+Crab Cliffs {Утес Крабов.}
+
+Douwesen {Дувезен}
+Conceicao {Консейсао}
+Hidden Coast {Затерянный берег}
+Pirate Port {Пиратский Порт}
+Khael Roa {Каэль Роа}
+FalaiseDeFleur {Фале Де Флер}
+IslaMuelle {Исла Муэлье}
+
+Falaise de Fleur prison {Тюрьма Фале Де Флер}
